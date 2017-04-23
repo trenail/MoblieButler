@@ -36,6 +36,4 @@ public abstract class BaseSwipListAdapter extends BaseAdapter {
         return true;
     }
 
-
-
 }
